@@ -226,7 +226,7 @@ After performing K-Means clustering and validating the model, the analysis revea
 - **Segment 2 (Budget-Conscious Shoppers)**: Cluster 2
 - **Segment 3 (Middle-Class Steady Spenders)**: Cluster 3
 - **Segment 4 (Young Explorers)**: Cluster 4
-- **Segment 5 (Low-Engagement Customers)**: Cluster 5
+- **Segment 5 (Low-Engagement Customers)**: Cluster 0
 
 ### Segment Characteristics
 
